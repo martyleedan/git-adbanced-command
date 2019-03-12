@@ -1,0 +1,2 @@
+# git-adbanced-command
+gitTest
